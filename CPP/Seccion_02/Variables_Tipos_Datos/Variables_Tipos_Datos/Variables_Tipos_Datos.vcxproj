@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="direccion_memoria.cpp" />
+    <ClCompile Include="ejercicio_01.cpp" />
+    <ClCompile Include="introducir_valores.cpp" />
     <ClCompile Include="Manejo_Variables.cpp" />
     <ClCompile Include="tipos_datos.cpp" />
   </ItemGroup>
