@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="constantes.cpp" />
     <ClCompile Include="direccion_memoria.cpp" />
     <ClCompile Include="ejercicio_01.cpp" />
     <ClCompile Include="introducir_valores.cpp" />

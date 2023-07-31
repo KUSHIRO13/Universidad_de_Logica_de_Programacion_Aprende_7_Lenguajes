@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main5() {
 	//Declaracion de variables
 	int edad;
 	bool empleadoConfianza;
